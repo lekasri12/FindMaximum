@@ -1,4 +1,5 @@
 # Find the maximum of a list of numbers
+## Date:
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
