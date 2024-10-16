@@ -1,4 +1,4 @@
-# Find the maximum of a list of numbers
+# EXP-06-Find the maximum of a list of numbers
 ## Date:
 ## Aim:
 To write a program to find the maximum of a list of numbers.
